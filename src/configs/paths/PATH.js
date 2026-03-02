@@ -1,9 +1,9 @@
 const PATH = {
   HOME: '/',
   LOGIN: '/login',
-  PRIZE_CODE: '/prize-code',
+  MY_TICKET: '/my-ticket',
   LIST_WINNER: '/list-winner',
-  HOW_TO_GET_SPIN: '/how-to-get-spin',
+  HOW_TO_GET_TICKET: '/how-to-get-ticket',
   TERMS_AND_CONDITIONS: '/terms-and-conditions',
 };
 

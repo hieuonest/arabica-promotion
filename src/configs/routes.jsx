@@ -19,7 +19,7 @@ const routes = [
         element: <Home />,
       },
       {
-        path: PATH.PRIZE_CODE,
+        path: PATH.MY_TICKET,
         element: <PrizeCode />,
       },
       {
@@ -27,7 +27,7 @@ const routes = [
         element: <ListWinner />,
       },
       {
-        path: PATH.HOW_TO_GET_SPIN,
+        path: PATH.HOW_TO_GET_TICKET,
         element: <HowToGetSpin />,
       },
       {
