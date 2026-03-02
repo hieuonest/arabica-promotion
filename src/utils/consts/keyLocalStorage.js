@@ -1,0 +1,1 @@
+export const LEANGUAGE_KEY = "language";
